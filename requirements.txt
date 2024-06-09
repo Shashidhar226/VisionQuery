@@ -1,0 +1,9 @@
+langchain
+langchain_community
+openai
+langchain-google-genai
+streamlit
+transformers
+openai
+torch
+torchvision
